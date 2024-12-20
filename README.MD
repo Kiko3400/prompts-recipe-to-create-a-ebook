@@ -26,3 +26,5 @@ ChatGPT：
 ## 📚 Materiais
 
 - ebook gerado durante as aulas em `output`
+- Link do ebook: https://github.com/Kiko3400/prompts-recipe-to-create-a-ebook/blob/main/output/Ebook_Dio.pdf
+
